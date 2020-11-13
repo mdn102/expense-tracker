@@ -19,6 +19,7 @@ function App() {
         <TransactionList />
         <AddTransaction />
       </div>
+      <Footer />
     </GlobalProvider>
   );
 }

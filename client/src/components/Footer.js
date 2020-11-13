@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Header = () => {
   return (
-    <h1>
-      Expense Tracker
-    </h1>
+    <h4>
+      Developed by Minh Nguyen @2020.
+    </h4>
   )
 }
