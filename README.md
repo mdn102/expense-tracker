@@ -10,7 +10,7 @@
 # Add config.env file in config folder: 
 NODE_ENV=production
 PORT=5000
-MONGO_URI=fill in your url of mongodb at here
+MONGO_URI="fill in your url of mongodb at here"
 SKIP_PREFLIGHT_CHECK=true
 ```
 
