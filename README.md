@@ -1,12 +1,20 @@
-# Expense Tracker (MERN)
+# [Expense Tracker]()
 
-> Full stack expense tracker
+> Full stack expense tracker (MERN)
 
-## Usage
+## [Screenshot]()
 
+
+### Setup DB
 ```
-change config.env file in config folder
+# Add config.env file in config folder: 
+NODE_ENV=production
+PORT=5000
+MONGO_URI=fill in your url of mongodb at here
+SKIP_PREFLIGHT_CHECK=true
 ```
+
+### Usage
 
 ```
  npm install

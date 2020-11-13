@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Header = () => {
+export const Footer = () => {
   return (
-    <h4>
+    <h3>
       Developed by Minh Nguyen @2020.
-    </h4>
+    </h3>
   )
 }
