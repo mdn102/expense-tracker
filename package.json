@@ -4,12 +4,12 @@
   "description": "Backend for expense tracker",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server",
+    "start": "node server.js",
+    "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Brad Traversy",
+  "author": "Minh Nguyen",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
