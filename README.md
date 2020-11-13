@@ -2,7 +2,8 @@
 
 > Full stack expense tracker (MERN)
 
-## [Screenshot]()
+## Screenshot:
+![Opening](https://res.cloudinary.com/djhte2ard/image/upload/v1605306716/expense-tracker_gndla9.png)
 
 
 ### Setup DB
